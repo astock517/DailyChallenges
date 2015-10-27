@@ -24,12 +24,13 @@ edcf
 bnik
 poil
 vybu
-## Challenge Output
+##Challenge Output
 
 edcf = deedeed
 bnik = bikini
 poil = pililloo
 vybu = bubby
+
 ##Credit
 
 This challenge was inspired by /u/ThinkinWithSand, many thanks! If you have any ideas, please share them on /r/dailyprogrammer_ideas and there's a chance we'll use it.
